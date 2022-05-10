@@ -16,4 +16,4 @@ if now.weekday() == 1:
                             to_addrs="michaelkleyman99@gmail.com",
                             msg=f"Subject:Weekly Motivation\n\n{random.choice(quote_list)}\nSincerely Michael Kleyman")
 
-#
+
